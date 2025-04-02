@@ -1,3 +1,7 @@
+## Live Demo
+
+Visit the live demo at: https://shopping-card-delta-capita-angular.netlify.app/
+
 # Shopping-Cart-Angular
 
 
@@ -37,7 +41,5 @@ npm run build
 - Tailwind CSS 3.4.1
 - TypeScript 5.3
 
-## Live Demo
 
-Visit the live demo at: https://shopping-card-delta-capita-angular.netlify.app/
 
